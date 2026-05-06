@@ -1,0 +1,7 @@
+LET x = 10
+LET y = 20
+IF x < y
+    PRINT x
+    TURN RIGHT 45
+END
+PRINT y

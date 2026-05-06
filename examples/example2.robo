@@ -1,0 +1,4 @@
+LET a = 5
+LET b = a + 3
+PRINT b
+MOVE BACKWARD 2

@@ -1,0 +1,8 @@
+LET speed = 10
+
+MOVE FORWARD speed
+TURN LEFT 90
+
+IF speed > 5
+    PRINT speed
+END
